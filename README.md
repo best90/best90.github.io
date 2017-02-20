@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 黑白 – 魔术师之路
 
-You can use the [editor on GitHub](https://github.com/best90/best90.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+专注于互联网，前后端开发/数据挖掘/SEO学习及优秀文章分享，一位IT菜鸟技术成长之路。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 文章推荐
 
-### Markdown
+[2016年年终总结 By 黑白](http://www.xrspace.com/683.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[[转]API接口规范完整版本](http://www.xrspace.com/708.html)
 
-```markdown
-Syntax highlighted code block
+[Python 爬虫的工具列表](http://www.xrspace.com/631.html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/best90/best90.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+更多文章，请查阅[黑白 – 魔术师之路](http://www.xrspace.com/) http://www.xrspace.com. 一位菜鸟的笔记而已。
