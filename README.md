@@ -14,4 +14,8 @@
 
 [Docker常用命令](http://www.xrspace.com/610.html)
 
-更多文章，请查阅[黑白 – 魔术师之路](http://www.xrspace.com/) http://www.xrspace.com. 一位菜鸟的笔记而已。
+[比较实用Git命令](http://www.xrspace.com/701.html)
+
+[PHP路由技术的原理与实践](http://www.xrspace.com/571.html)
+
+更多文章，请查阅[黑白 – 魔术师之路](http://www.xrspace.com/) [http://www.xrspace.com](http://www.xrspace.com). 一位菜鸟的笔记而已。
