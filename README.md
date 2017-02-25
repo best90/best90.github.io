@@ -18,4 +18,14 @@
 
 [PHP路由技术的原理与实践](http://www.xrspace.com/571.html)
 
+。。。
+
 更多文章，请查阅[黑白 – 魔术师之路](http://www.xrspace.com/) [http://www.xrspace.com](http://www.xrspace.com). 一位菜鸟的笔记而已。
+
+### 关于我
+
+一个苦逼的小码农，对学习充满热情，喜欢PHP编程开发。
+
+最后，我的Github: [https://github.com/best90](https://github.com/best90).
+
+希望能够多认识一些大神朋友，带我一起飞。
