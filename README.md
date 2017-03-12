@@ -2,7 +2,7 @@
 
 专注于互联网，前后端开发/数据挖掘/SEO学习及优秀文章分享，一位IT菜鸟技术成长之路。
 
-### 文章推荐
+#### 文章推荐
 
 [[转]API接口规范完整版本](http://www.xrspace.com/708.html)
 
@@ -20,11 +20,13 @@
 
 。。。
 
-更多文章，请查阅[黑白 – 魔术师之路](http://www.xrspace.com/) [http://www.xrspace.com](http://www.xrspace.com). 一位菜鸟的笔记而已。
+更多文章，请查阅 黑白 – 魔术师之路 [http://www.xrspace.com](http://www.xrspace.com). 菜鸟的笔记,大神勿喷。
 
-### 关于我
+#### 关于我
 
 一个苦逼的小码农，对学习充满热情，喜欢PHP编程开发。
+
+还不够详细，请看[这里](http://www.xrspace.com/about)。
 
 最后，我的Github: [https://github.com/best90](https://github.com/best90).
 
