@@ -20,7 +20,7 @@
 
 。。。
 
-更多文章，请查阅 黑白 – 魔术师之路 [http://www.xrspace.com](http://www.xrspace.com). 菜鸟的笔记,大神勿喷。
+更多文章，请查阅 黑白 – 魔术师之路 [http://www.xrspace.com](http://www.xrspace.com). 菜鸟的笔记，大神勿喷。
 
 #### 关于我
 
