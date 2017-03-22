@@ -1,26 +1,31 @@
-## 黑白 – 魔术师之路
+## 魔术师之路
 
 专注于互联网，前后端开发/数据挖掘/SEO学习及优秀文章分享，一位IT菜鸟技术成长之路。
 
-#### 文章推荐
+#### 技术文章推荐
 
-[[转]API接口规范完整版本](http://www.xrspace.com/708.html)
+* [比较全面的MySQL优化参考](http://www.xrspace.com/469.html)
 
-[Python 爬虫的工具列表](http://www.xrspace.com/631.html)
+* [Docker常用命令](http://www.xrspace.com/610.html)
 
-[[转]RESTful API 设计指南](http://www.xrspace.com/585.html)
+* [比较实用Git命令](http://www.xrspace.com/701.html)
 
-[比较全面的MySQL优化参考](http://www.xrspace.com/469.html)
+* [PHP路由技术的原理与实践](http://www.xrspace.com/571.html)
 
-[Docker常用命令](http://www.xrspace.com/610.html)
+* [PHP避免暴露数据的方法](http://www.xrspace.com/596.html)
 
-[比较实用Git命令](http://www.xrspace.com/701.html)
+* [PHP编程效率的20个要点](http://www.xrspace.com/530.html)
 
-[PHP路由技术的原理与实践](http://www.xrspace.com/571.html)
+* [PHP并行 多进程/多线程](http://www.xrspace.com/481.html)
 
-。。。
+* [30个php操作redis常用方法代码例子](http://www.xrspace.com/372.html)
+
+ 。。。
+
+（注：以上文章并非原创，个人收录笔记。）
 
 更多文章，请查阅 黑白 – 魔术师之路 [http://www.xrspace.com](http://www.xrspace.com). 菜鸟的笔记，大神勿喷。
+
 
 #### 关于我
 
