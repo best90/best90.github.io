@@ -18,8 +18,11 @@
 * [PHP路由技术的原理与实践](http://www.xrspace.com/571.html)
 
 * [PHP开发中比较高级的用法汇总](http://www.xrspace.com/691.html)
+ 
  。。。
-
+ 
+ 附： [PHP设计模式示例代码](https://github.com/best90/best90.github.io/tree/master/Pattern)
+ 
 
 更多文章，请查阅 魔术师之路 [http://www.xrspace.com](http://www.xrspace.com). 菜鸟的笔记，大牛勿喷。
 
