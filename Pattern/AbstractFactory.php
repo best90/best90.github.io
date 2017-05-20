@@ -3,69 +3,70 @@
  * Created by PhpStorm.
  * User: Administrator
  * Date: 2017/5/20 0020
- * Time: 下午 21:20
+ * Time: 下午 22:17
  */
 
 namespace Pattern;
 
-
-interface Animal{
-    public function run();
-    public function say();
+interface TV{
+    public function open();
+    public function watch();
 }
 
-class Dog implements Animal{
-    public function run()
+class HaierTV implements TV{
+    public function open()
     {
-        // TODO: Implement run() method.
-        echo 'I am running fast!';
+        // TODO: Implement open() method.
+        echo 'open Haier TV.'
     }
 
-    public function say()
+    public function watch()
     {
-        // TODO: Implement say() method.
-        echo 'I am Dog class.';
-    }
-}
-
-class Cat implements Animal{
-    public function run()
-    {
-        // TODO: Implement run() method.
-        echo 'I am running slowly!';
-    }
-
-    public function say()
-    {
-        // TODO: Implement say() method.
-        echo 'I am Cat class.';
+        // TODO: Implement watch() method.
+        echo 'I am watching TV.';
     }
 }
 
-abstract Factory{
-    abstract static function create();
+interface PC{
+    public function work();
+    public function play();
 }
 
-class DogFactory extends Factory{
-    public static function create()
+class LenovoPC implements PC{
+    public function work()
     {
-        // TODO: Implement create() method.
-        return new Dog();
+        // TODO: Implement work() method.
+        echo 'I am working.';
+    }
+
+    public function play()
+    {
+        // TODO: Implement play() method.
+        echo 'I am playing.';
     }
 }
 
-class CatFactory extends Factory{
-    public static function create()
+abstract class Factory{
+    abstract static function createTV();
+    abstract static function createPC();
+}
+
+class ProductFactory extends Factory{
+    public static function createTV()
     {
-        // TODO: Implement create() method.
-        return new Cat();
+        return new HaierTV();
+    }
+
+    public static function createPC()
+    {
+        return new LenovoPC();
     }
 }
 
-$dog = DogFactory::create();
-$dog->run();
-$dog->say();
+$tv = ProductFactory::createTV();
+$tv->open();
+$tv->watch();
 
-$cat = CatFactory::create();
-$cat->run();
-$cat->say();
+$pc = ProductFactory::createPC();
+$pc->work();
+$pc->play();
