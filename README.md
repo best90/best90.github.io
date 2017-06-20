@@ -3,6 +3,8 @@
 专注于互联网，前后端开发/数据挖掘/SEO学习及优秀文章分享，一位IT菜鸟技术成长之路。
 
 #### 技术文章推荐
+* [PHP设计模式【3】](http://www.xrspace.com/811.html)
+
 * [大话PHP设计模式【2】](http://www.xrspace.com/789.html)
 
 * [PHP性能优化解决方案](http://www.xrspace.com/783.html)
