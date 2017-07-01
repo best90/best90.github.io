@@ -34,6 +34,10 @@ abstract class Handler
 
     abstract protected function response();
 
+    public function setHandlerLevel($lever){
+        $this->lever = $lever;
+    }
+
     public function setNext(Handler $handler){
         $this->next_handler = $handler;
         $this->next_handler->setHandlerLevel($this->lever + 1);
@@ -72,3 +76,15 @@ class Manager extends Handler
         echo '经理回复你：容朕思虑，再议'.PHP_EOL;
     }
 }
+
+$headman = new HeadMan;
+$director = new Director;
+$manager = new Manager;
+
+$headman->setNext($director);
+$director->setNext($manager);
+
+$headman->handlerMessage(new Request('请假'));
+$headman->handlerMessage(new Request('休假'));
+$headman->handlerMessage(new Request('辞职'));
+$headman->handlerMessage(new Request('加薪'));
