@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * 冒泡排序的原理：一组数据，比较相邻数据的大小，将值小数据在前面，值大的数据放在后面。
+ * @param array $array
+ * @return array
+ */
 function bubble_sort(array $array) : array
 {
     $count = count($array);
